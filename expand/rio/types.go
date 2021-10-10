@@ -3,7 +3,7 @@ package rio
 //
 //import (
 //	"fmt"
-//	"github.com/JFJun/stafi-substrate-go/expand/base"
+//	"github.com/yanyushr/stafi-substrate-go/expand/base"
 //	"github.com/stafiprotocol/go-substrate-rpc-client/scale"
 //	"github.com/stafiprotocol/go-substrate-rpc-client/types"
 //)

@@ -3,7 +3,8 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/JFJun/stafi-substrate-go/client"
+
+	"github.com/yanyushr/stafi-substrate-go/client"
 )
 
 func main() {

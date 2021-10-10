@@ -3,8 +3,8 @@ package test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/JFJun/stafi-substrate-go/client"
 	"github.com/stafiprotocol/go-substrate-rpc-client/types"
+	"github.com/yanyushr/stafi-substrate-go/client"
 	"testing"
 )
 

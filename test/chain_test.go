@@ -2,8 +2,9 @@ package test
 
 import (
 	"fmt"
-	"github.com/JFJun/stafi-substrate-go/client"
 	"testing"
+
+	"github.com/yanyushr/stafi-substrate-go/client"
 )
 
 func Test_Chain(t *testing.T) {

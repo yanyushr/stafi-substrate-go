@@ -5,14 +5,15 @@ import (
 	"encoding/binary"
 	"errors"
 	"fmt"
-	"github.com/JFJun/stafi-substrate-go/uint128"
-	"github.com/JFJun/stafi-substrate-go/utils"
+	"io"
+	"reflect"
+
 	"github.com/huandu/xstrings"
 	"github.com/shopspring/decimal"
 	"github.com/stafiprotocol/go-substrate-rpc-client/scale"
 	"github.com/stafiprotocol/go-substrate-rpc-client/types"
-	"io"
-	"reflect"
+	"github.com/yanyushr/stafi-substrate-go/uint128"
+	"github.com/yanyushr/stafi-substrate-go/utils"
 )
 
 //type Compact struct {
