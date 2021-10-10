@@ -3,9 +3,10 @@ package test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stafiprotocol/go-substrate-rpc-client/types"
-	"github.com/yanyushr/stafi-substrate-go/client"
 	"testing"
+
+	"github.com/stafiprotocol/go-substrate-rpc-client/types"
+	"github.com/yanyushr/stafi-substrate-go/v2/client"
 )
 
 func Test_GetStorage(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/yanyushr/stafi-substrate-go/client"
+	"github.com/yanyushr/stafi-substrate-go/v2/client"
 )
 
 func Test_Chain(t *testing.T) {

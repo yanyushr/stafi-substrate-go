@@ -1,16 +1,17 @@
 package expand
 
 import (
-	"github.com/stafiprotocol/go-substrate-rpc-client/types"
-	"github.com/yanyushr/stafi-substrate-go/expand/acala"
-	"github.com/yanyushr/stafi-substrate-go/expand/base"
-	"github.com/yanyushr/stafi-substrate-go/expand/chainX"
-	"github.com/yanyushr/stafi-substrate-go/expand/crust"
-	"github.com/yanyushr/stafi-substrate-go/expand/darwinia"
-	"github.com/yanyushr/stafi-substrate-go/expand/ori"
-	"github.com/yanyushr/stafi-substrate-go/expand/polkadot"
-	"github.com/yanyushr/stafi-substrate-go/expand/stafi"
 	"strings"
+
+	"github.com/stafiprotocol/go-substrate-rpc-client/types"
+	"github.com/yanyushr/stafi-substrate-go/v2/expand/acala"
+	"github.com/yanyushr/stafi-substrate-go/v2/expand/base"
+	"github.com/yanyushr/stafi-substrate-go/v2/expand/chainX"
+	"github.com/yanyushr/stafi-substrate-go/v2/expand/crust"
+	"github.com/yanyushr/stafi-substrate-go/v2/expand/darwinia"
+	"github.com/yanyushr/stafi-substrate-go/v2/expand/ori"
+	"github.com/yanyushr/stafi-substrate-go/v2/expand/polkadot"
+	"github.com/yanyushr/stafi-substrate-go/v2/expand/stafi"
 )
 
 type IEventRecords interface {

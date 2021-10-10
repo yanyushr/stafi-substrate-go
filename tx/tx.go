@@ -8,8 +8,8 @@ import (
 
 	"github.com/JFJun/go-substrate-crypto/crypto"
 	"github.com/stafiprotocol/go-substrate-rpc-client/types"
-	"github.com/yanyushr/stafi-substrate-go/expand"
-	"github.com/yanyushr/stafi-substrate-go/utils"
+	"github.com/yanyushr/stafi-substrate-go/v2/expand"
+	"github.com/yanyushr/stafi-substrate-go/v2/utils"
 	"golang.org/x/crypto/blake2b"
 )
 

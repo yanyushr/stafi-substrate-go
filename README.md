@@ -6,7 +6,7 @@
             stafi(FIS),kusama(KSM),chainX2.0(PCX),darwinia(CRING,RING)
     2. 这个包其实是对github.com/JFJun/substrate-go包的升级，所以功能与两者相似，只不过这个包更简洁更稳定。
     3. 发送交易建议使用新的方法，功能都是一样，进行了简单的封装，相对之前看着更加简洁，可以查看相应的测试方法：
-        https://github.com/yanyushr/stafi-substrate-go/test/tx2_test.go
+        https://github.com/yanyushr/stafi-substrate-go/v2/test/tx2_test.go
 ## 使用
 ### 1. 解析区块
         // 初始化客户端

@@ -7,7 +7,7 @@ import (
 
 	"github.com/huandu/xstrings"
 	"github.com/stafiprotocol/go-substrate-rpc-client/types"
-	"github.com/yanyushr/stafi-substrate-go/utils"
+	"github.com/yanyushr/stafi-substrate-go/v2/utils"
 )
 
 /*

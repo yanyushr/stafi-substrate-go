@@ -12,8 +12,8 @@ import (
 	"github.com/shopspring/decimal"
 	"github.com/stafiprotocol/go-substrate-rpc-client/scale"
 	"github.com/stafiprotocol/go-substrate-rpc-client/types"
-	"github.com/yanyushr/stafi-substrate-go/uint128"
-	"github.com/yanyushr/stafi-substrate-go/utils"
+	"github.com/yanyushr/stafi-substrate-go/v2/uint128"
+	"github.com/yanyushr/stafi-substrate-go/v2/utils"
 )
 
 //type Compact struct {

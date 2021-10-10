@@ -2,7 +2,7 @@ package polkadot
 
 import (
 	"github.com/stafiprotocol/go-substrate-rpc-client/types"
-	"github.com/yanyushr/stafi-substrate-go/expand/base"
+	"github.com/yanyushr/stafi-substrate-go/v2/expand/base"
 )
 
 type PolkadotEventRecords struct {

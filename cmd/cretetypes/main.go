@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/yanyushr/stafi-substrate-go/client"
+	"github.com/yanyushr/stafi-substrate-go/v2/client"
 )
 
 func main() {

@@ -10,9 +10,9 @@ import (
 	"github.com/JFJun/go-substrate-crypto/ss58"
 	"github.com/stafiprotocol/go-substrate-rpc-client/scale"
 	"github.com/stafiprotocol/go-substrate-rpc-client/types"
-	"github.com/yanyushr/stafi-substrate-go/client"
-	"github.com/yanyushr/stafi-substrate-go/expand"
-	"github.com/yanyushr/stafi-substrate-go/models"
+	"github.com/yanyushr/stafi-substrate-go/v2/client"
+	"github.com/yanyushr/stafi-substrate-go/v2/expand"
+	"github.com/yanyushr/stafi-substrate-go/v2/models"
 )
 
 func Test_RpcClient(t *testing.T) {

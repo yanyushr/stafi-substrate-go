@@ -16,10 +16,10 @@ import (
 	"github.com/stafiprotocol/go-substrate-rpc-client/rpc"
 	"github.com/stafiprotocol/go-substrate-rpc-client/scale"
 	"github.com/stafiprotocol/go-substrate-rpc-client/types"
-	"github.com/yanyushr/stafi-substrate-go/base"
-	"github.com/yanyushr/stafi-substrate-go/expand"
-	"github.com/yanyushr/stafi-substrate-go/models"
-	"github.com/yanyushr/stafi-substrate-go/utils"
+	"github.com/yanyushr/stafi-substrate-go/v2/base"
+	"github.com/yanyushr/stafi-substrate-go/v2/expand"
+	"github.com/yanyushr/stafi-substrate-go/v2/models"
+	"github.com/yanyushr/stafi-substrate-go/v2/utils"
 	"golang.org/x/crypto/blake2b"
 )
 

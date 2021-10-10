@@ -8,9 +8,9 @@ import (
 	"github.com/JFJun/go-substrate-crypto/crypto"
 	"github.com/JFJun/go-substrate-crypto/ss58"
 	"github.com/stafiprotocol/go-substrate-rpc-client/types"
-	"github.com/yanyushr/stafi-substrate-go/client"
-	"github.com/yanyushr/stafi-substrate-go/expand"
-	"github.com/yanyushr/stafi-substrate-go/tx"
+	"github.com/yanyushr/stafi-substrate-go/v2/client"
+	"github.com/yanyushr/stafi-substrate-go/v2/expand"
+	"github.com/yanyushr/stafi-substrate-go/v2/tx"
 )
 
 func Test_tx(t *testing.T) {
