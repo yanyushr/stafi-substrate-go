@@ -17,6 +17,8 @@ github.com/ChainSafe/go-schnorrkel v0.0.0-20200626160457-b38283118816 h1:X5jJ3e/
 github.com/ChainSafe/go-schnorrkel v0.0.0-20200626160457-b38283118816/go.mod h1:URdX5+vg25ts3aCh8H5IFZybJYKWhJHYMTnf+ULtoC4=
 github.com/JFJun/go-substrate-crypto v1.0.1 h1:Gh9ix3vbhiJRSIk+ztRLZVz3XY2zOhGFWzO33lMKzfc=
 github.com/JFJun/go-substrate-crypto v1.0.1/go.mod h1:VGsUKSN8QuqKcp2lzO3oFXndyqhE9YIOy6iD6Sl9AD0=
+github.com/JFJun/stafi-substrate-go v1.1.6 h1:CTic9U+uK6es0QRY17WXVtCt5ubsi7feZSYnPsrChZk=
+github.com/JFJun/stafi-substrate-go v1.1.6/go.mod h1:P6CKTmwwesAg5yJkKfVu3U9pJTnEPDP8vtfwNjzCSrI=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 h1:fLjPD/aNc3UIOA6tDi6QXUemppXK3P9BI7mr2hd6gx8=
 github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6/go.mod h1:3eOhrUMpNV+6aFIbp5/iudMxNCF27Vw2OZgy4xEx0Fg=
@@ -62,7 +64,6 @@ github.com/docker/docker v1.4.2-0.20180625184442-8e610b2b55bf/go.mod h1:eEKB0N0r
 github.com/dop251/goja v0.0.0-20200721192441-a695b0cdd498/go.mod h1:Mw6PkjjMXWbTj+nnj4s3QPXq1jaT0s5pC0iFD4+BOAA=
 github.com/dvyukov/go-fuzz v0.0.0-20200318091601-be3528f3a813/go.mod h1:11Gm+ccJnvAhCNLlf5+cS9KjtbaD5I5zaZpFMsTHWTw=
 github.com/edsrzf/mmap-go v0.0.0-20160512033002-935e0e8a636c/go.mod h1:YO35OhQPt3KJa3ryjFM5Bs14WD66h8eGKpfaBNrHW5M=
-github.com/ethereum/go-ethereum v1.9.21 h1:8qRlhzrItnmUGdVlBzZLI2Tb46S0RdSNjFwICo781ws=
 github.com/ethereum/go-ethereum v1.9.21/go.mod h1:RXAVzbGrSGmDkDnHymruTAIEjUR3E4TX0EOpaj702sI=
 github.com/ethereum/go-ethereum v1.9.24 h1:6AK+ORt3EMDO+FTjzXy/AQwHMbu52J2nYHIjyQX9azQ=
 github.com/ethereum/go-ethereum v1.9.24/go.mod h1:JIfVb6esrqALTExdz9hRYvrP0xBDf6wCncIu1hNwHpM=

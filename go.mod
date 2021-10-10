@@ -1,9 +1,10 @@
-module github.com/JFJun/stafi-substrate-go
+module github.com/yanyushr/stafi-substrate-go
 
 go 1.14
 
 require (
 	github.com/JFJun/go-substrate-crypto v1.0.1
+	github.com/JFJun/stafi-substrate-go v1.1.6
 	github.com/huandu/xstrings v1.3.2
 	github.com/shopspring/decimal v1.2.0
 	github.com/stafiprotocol/go-substrate-rpc-client v1.0.3
