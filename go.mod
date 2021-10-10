@@ -1,4 +1,4 @@
-module github.com/yanyushr/stafi-substrate-go
+module github.com/yanyushr/stafi-substrate-go/v2
 
 go 1.17
 
